@@ -11,3 +11,11 @@ I completed remaining assignment of week 3. Watched week 4 videos about face ver
 Saimese Network and Triplet Loss are important concepts that i learned today.
 
 Link:https://www.coursera.org/learn/convolutional-neural-networks/home/week/4
+
+Day 3:
+
+Watched week 4 videos about Neural Style Transfer(NSF), passed quiz and did half assignment.
+I was amazed by adroitness of CNN at performing NSF task.Medium article explained NSF elegantly.
+
+Link:https://medium.com/@shivamgoel1791/everything-you-need-to-know-about-neural-style-transfer-994530cc9a6e
+https://www.coursera.org/learn/convolutional-neural-networks/notebook/lEthw/art-generation-with-neural-style-transfer
