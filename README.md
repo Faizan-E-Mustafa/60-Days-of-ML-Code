@@ -19,3 +19,10 @@ I was amazed by adroitness of CNN at performing NSF task.Medium article explaine
 
 Link:https://medium.com/@shivamgoel1791/everything-you-need-to-know-about-neural-style-transfer-994530cc9a6e
 https://www.coursera.org/learn/convolutional-neural-networks/notebook/lEthw/art-generation-with-neural-style-transfer
+
+Day 4:
+
+Finished the course "Convolutional Neural Networks" by completing assignment of Week 4. I am yet not comfortable with frameworks (tensorflow, keras) . So will play more with these frameworks in the coming days.
+
+Links: Certificate: https://www.coursera.org/account/accomplishments/certificate/JZUSZGUP6BJH
+https://www.coursera.org/learn/convolutional-neural-networks/notebook/lEthw/art-generation-with-neural-style-transfer
