@@ -26,3 +26,11 @@ Finished the course "Convolutional Neural Networks" by completing assignment of 
 
 Links: Certificate: https://www.coursera.org/account/accomplishments/certificate/JZUSZGUP6BJH
 https://www.coursera.org/learn/convolutional-neural-networks/notebook/lEthw/art-generation-with-neural-style-transfer
+
+Day 5:
+Started fifth course of specialization named "Sequence Models". Watched Week 1 videos about RNN, GRU and LSTM.Also Passed quiz and read Colah's Excellent Blog post about LSTM . Things are getting interesting now.
+Link:http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://www.coursera.org/learn/nlp-sequence-models/home/week/1
+
+
+
