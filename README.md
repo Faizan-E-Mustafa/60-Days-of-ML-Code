@@ -1,4 +1,4 @@
-#100-Days-of-ML-Code
+# 100-Days-of-ML-Code
 # Day 1:
 
 Before i took this challenge i had completed 2 weeks of Andrew Ng's Convolutional Network course. I Watched week 3 videos , passed quiz and completed 30 percent of assignment. Week 3 Material is tough and interesting as compared to previous weeks material.
@@ -29,7 +29,7 @@ Finished the course "Convolutional Neural Networks" by completing assignment of 
 Links: Certificate: https://www.coursera.org/account/accomplishments/certificate/JZUSZGUP6BJH
 https://www.coursera.org/learn/convolutional-neural-networks/notebook/lEthw/art-generation-with-neural-style-transfer
 
-Day 5:
+# Day 5:
 
 Started fifth course of specialization named "Sequence Models". Watched Week 1 videos about RNN, GRU and LSTM.Also Passed quiz and read Colah's Excellent Blog post about LSTM . Things are getting interesting now.
 
