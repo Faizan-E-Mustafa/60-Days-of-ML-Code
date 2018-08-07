@@ -1,18 +1,18 @@
-# 100-Days-of-ML-Code
-Day 1:
+#100-Days-of-ML-Code
+# Day 1:
 
 Before i took this challenge i had completed 2 weeks of Andrew Ng's Convolutional Network course. I Watched week 3 videos , passed quiz and completed 30 percent of assignment. Week 3 Material is tough and interesting as compared to previous weeks material.
 
 Link: https://www.coursera.org/learn/convolutional-neural-networks/home/week/3
 
-Day 2:
+# Day 2:
 
 I completed remaining assignment of week 3. Watched week 4 videos about face verification and recognition and did assignment.
 Saimese Network and Triplet Loss are important concepts that i learned today.
 
 Link:https://www.coursera.org/learn/convolutional-neural-networks/home/week/4
 
-Day 3:
+# Day 3:
 
 Watched week 4 videos about Neural Style Transfer(NSF), passed quiz and did half assignment.
 I was amazed by adroitness of CNN at performing NSF task.Medium article explained NSF elegantly.
@@ -20,17 +20,18 @@ I was amazed by adroitness of CNN at performing NSF task.Medium article explaine
 Link:https://medium.com/@shivamgoel1791/everything-you-need-to-know-about-neural-style-transfer-994530cc9a6e
 https://www.coursera.org/learn/convolutional-neural-networks/notebook/lEthw/art-generation-with-neural-style-transfer
 
-Day 4:
+# Day 4:
 
 Finished the course "Convolutional Neural Networks" by completing assignment of Week 4. I am yet not comfortable with frameworks (tensorflow, keras) . So will play more with these frameworks in the coming days.
+
+![screenshot from 2018-08-04 15-04-10](https://user-images.githubusercontent.com/42006275/43763357-1ac72992-9a1a-11e8-9889-5ae86f47dcbf.png)
 
 Links: Certificate: https://www.coursera.org/account/accomplishments/certificate/JZUSZGUP6BJH
 https://www.coursera.org/learn/convolutional-neural-networks/notebook/lEthw/art-generation-with-neural-style-transfer
 
 Day 5:
+
 Started fifth course of specialization named "Sequence Models". Watched Week 1 videos about RNN, GRU and LSTM.Also Passed quiz and read Colah's Excellent Blog post about LSTM . Things are getting interesting now.
+
 Link:http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://www.coursera.org/learn/nlp-sequence-models/home/week/1
-
-
-
