@@ -63,5 +63,20 @@ Watched videos about sequence to sequence architectures, beam search and Attenti
 
 Link to certificate: https://www.coursera.org/account/accomplishments/verify/9RYVKFJ3FXWW
 
+# Day 13-16:
+I wanted to work on a personel preject . i wanted to make "image captioning" project . SO i started Cs231n since andrej karpathy did a great job at explaining RNN's and Image captioning model. SO i watched Lecture 1-10 . i will do the remaining lectures but project is my proirity right now .
+
+Link:http://cs231n.stanford.edu/syllabus.html
+
+# Day 17-23:
+I worked on Image captioning project. i have documented my whole experience in blog post . i have made a github repository for project.I have got decent results which are displayed below.links to  my work are also given below: 
+
+![upload_1](https://user-images.githubusercontent.com/42006275/45359202-55ee6a00-b5bb-11e8-84b0-e4355723a6ad.png)
+![upload_2](https://user-images.githubusercontent.com/42006275/45359212-5d157800-b5bb-11e8-9372-ab4ea6da45c2.png)
+
+Github : https://github.com/Faizan-E-Mustafa/Image-Captioning
+
+Medium Blog:https://medium.com/@faizanmustafa75/keras-implementation-of-image-captioning-model-3a7ab68e67d4
+
 
 
