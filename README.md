@@ -78,5 +78,18 @@ Github : https://github.com/Faizan-E-Mustafa/Image-Captioning
 
 Medium Blog:https://medium.com/@faizanmustafa75/keras-implementation-of-image-captioning-model-3a7ab68e67d4
 
+# Day 24-28:
 
+I started Udacity's Intro to Machine Learning . Learnt about following alorithms 
+* Naive Bayes
+* SVM
+* Decision Tree
+* KNN
+* Random Forest
+* Adaboost
 
+Implemented above algorithms using Sckit learn .
+
+I made a github repository for mini projects in this course. Links is given below.
+
+Link:https://github.com/Faizan-E-Mustafa/Udacity-Intro-to-ML-Exercises
