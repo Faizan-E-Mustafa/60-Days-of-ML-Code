@@ -35,3 +35,33 @@ Started fifth course of specialization named "Sequence Models". Watched Week 1 v
 
 Link:http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://www.coursera.org/learn/nlp-sequence-models/home/week/1
+
+# Day 6:
+Completed 2 assignments of week 1. Second assignment used RNN to give names to dinosaurs. I made and used small data set (150 entries)of Muslim names .Model produced impressive results.
+
+![dkfqtsrwwaa0t57 jpg large](https://user-images.githubusercontent.com/42006275/45357578-2c7f0f80-b5b6-11e8-9057-b2fd06494c28.jpeg)
+
+# Day 7:
+
+Completed assignment 3 of Week 1. I was amazed to know that deep learning can learn to compose music . I wonder what's coming next. 
+Link: https://www.coursera.org/learn/nlp-sequence-models/home/week/1
+
+# Day 8: 
+
+Watched week 2 videos and finished assignment 1. Embedding is an important concept in NLP. learnt about Word2Vec, negative sampling, GloVe word vector. 
+
+Link: 
+https://www.coursera.org/learn/nlp-sequence-models/home/week/2
+
+# Day 9 : 
+Week 2 is now completed with the completion of assignment 2. used LSTM to emojify the sentence according to the sentiment of the sentence text. NLP is turning out to be an intriguing field.
+
+# Day 10-12:
+Watched videos about sequence to sequence architectures, beam search and Attention model. completed both assignmnets. I got the certificcate for Fifth course of awesome specialization.
+
+![a_axcac7_5j jpg large](https://user-images.githubusercontent.com/42006275/45358345-a87a5700-b5b8-11e8-82b5-9260a23326b8.jpeg)
+
+Link to certificate: https://www.coursera.org/account/accomplishments/verify/9RYVKFJ3FXWW
+
+
+
