@@ -93,3 +93,26 @@ Implemented above algorithms using Sckit learn .
 I made a github repository for mini projects in this course. Links is given below.
 
 Link:https://github.com/Faizan-E-Mustafa/Udacity-Intro-to-ML-Exercises
+
+# Day 29-30: 
+
+Completed 12 lesson of udacity's intro to ML
+
+Link:https://github.com/Faizan-E-Mustafa/Udacity-Intro-to-ML-Exercises
+
+# Day 31-33: 
+Read openintro stat book
+watched essence of linear algebra playlist
+Link:https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+https://www.openintro.org/stat/textbook.php
+
+# Day 34-36: 
+Data visualization with python course by IBM 
+
+# Day 37-40: 
+Data analysis with python course by IBM
+
+![git_upload](https://user-images.githubusercontent.com/42006275/46390499-a131ff00-c6c7-11e8-82f1-c628fc1cdecf.png)
+
+Link:https://www.coursera.org/learn/data-analysis-with-python/home/welcome
+https://www.coursera.org/account/accomplishments/verify/93EJJBD2HAEN
