@@ -116,3 +116,32 @@ Data analysis with python course by IBM
 
 Link:https://www.coursera.org/learn/data-analysis-with-python/home/welcome
 https://www.coursera.org/account/accomplishments/verify/93EJJBD2HAEN
+
+# Day Day 41-47:
+Read first 7 chapters of "Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems " book. 
+
+Link: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291
+
+# Day 48-49: 
+Completed week 1 of course "How to Win a Data Science Competition: Learn from Top Kagglers" on coursera
+
+Link:https://www.coursera.org/learn/competitive-data-science/home/welcome 
+
+# Day 50-51:
+Participated in my first kaggle competition(Titanic) . Secured 3915th position on Leaderboard . 
+
+Completed 2 weeks of "How to win data science competition" course. 
+
+Link:https://www.kaggle.com/c/titanic/leaderboard
+
+Day 52-60: 
+- Was able to be in top 12% in titanic competition 
+- Completed "How to win data science competition" course 
+- Read first 6 chapters of book "feature engineering made easy"
+- Got selected for Udacity's Deep learning Course. 
+
+Link:
+kaggle : https://www.kaggle.com/c/titanic/leaderboard
+
+Book : https://www.packtpub.com/big-data-and-business-intelligence/feature-engineering-made-easy
+![pytorch-acceptance-badge](https://user-images.githubusercontent.com/42006275/47797244-c9089700-dd47-11e8-9147-2b443583243b.png)
