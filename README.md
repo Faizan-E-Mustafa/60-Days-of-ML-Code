@@ -134,7 +134,7 @@ Completed 2 weeks of "How to win data science competition" course.
 
 Link:https://www.kaggle.com/c/titanic/leaderboard
 
-Day 52-60: 
+# Day 52-60: 
 - Was able to be in top 12% in titanic competition 
 - Completed "How to win data science competition" course 
 - Read first 6 chapters of book "feature engineering made easy"
